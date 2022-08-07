@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1574855818 source:c:\users\masum\desktop\patient_gadget\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"registration.h"
+	"login.h"
+
+1573765991 c:\users\masum\desktop\patient_gadget\include\registration.h
+	<bits/stdc++.h>
+	<patient.h>
+
+1574858070 c:\users\masum\desktop\patient_gadget\include\patient.h
+	<bits/stdc++.h>
+
+1574855780 source:c:\users\masum\desktop\patient_gadget\src\patient.cpp
+	<bits/stdc++.h>
+	"patient.h"
+
+1574952944 source:c:\users\masum\desktop\patient_gadget\src\registration.cpp
+	<bits/stdc++.h>
+	"registration.h"
+
+1574951370 source:c:\users\masum\desktop\patient_gadget\src\write.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"Write.h"
+
+1575689945 c:\users\masum\desktop\patient_gadget\include\write.h
+	<bits/stdc++.h>
+	<patient.h>
+
+1574855780 source:c:\users\masum\desktop\patient_gadget\src\login.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"login.h"
+
+1573770424 c:\users\masum\desktop\patient_gadget\include\login.h
+	<bits/stdc++.h>
+	<patient.h>
+
+1574952591 source:c:\users\masum\desktop\patient_gadget\src\read.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"read.h"
+
+1574268405 c:\users\masum\desktop\patient_gadget\include\read.h
+	<bits/stdc++.h>
+	<patient.h>
+
+1574951330 source:c:\users\masum\desktop\patient_gadget\src\listc.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"listc.h"
+
+1574268627 c:\users\masum\desktop\patient_gadget\include\listc.h
+	<bits/stdc++.h>
+	<patient.h>
+
